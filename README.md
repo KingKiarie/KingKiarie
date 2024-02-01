@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kiarie7mbugua@gmail.com
 - ⚡ Fun fact: Every time you press the follow button on my profile a friends badge appears on your Account
 -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
@@ -33,11 +34,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 <img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Snake animation" />
-
 
 ###
 

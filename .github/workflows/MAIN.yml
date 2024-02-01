@@ -11,6 +11,23 @@ on:
     - master
 
 jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Update README
+      run: |
+        echo "Last updated: $(date)" > README.md
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add README.md
+        git commit -m "Update README [skip ci]"
+        git push
   generate:
     permissions:
       contents: write
@@ -32,3 +49,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          name: Update README
