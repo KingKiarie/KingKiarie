@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python
+- 🔭 I’m currently working on Algorithms
 - 🌱 I’m currently learning 1's & 0's
 - 👯 I’m looking to collaborate on Jobs
 - 🤔 I’m looking for help with Automation
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World! What a beautiful season to be a developer in space. </p>
+<p align="left">Hello World! q's and p's don't make my 1's and 0's </p>
 
 ###
 
