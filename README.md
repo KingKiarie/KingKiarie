@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Automation
 - 💬 Ask me about @ my gmail
 - 📫 How to reach me: kiarie7mbugua@gmail.com
-- ⚡ Fun fact: Every time you press the follow button on my profile a friends badge appears on your Account
+- ⚡ Fun fact: Yes we can!
 -->
 
 <div align="center">
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World! q's and p's don't make my 1's and 0's </p>
+<p align="left">Hello World!</p>
 
 ###
 
