@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **KingKiarie/KingKiarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,12 +18,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="20" alt="youtube logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!</p>
-
-###
 
 <!-- Updated on: 2024-02-10T12:00:00Z (UTC) -->
 
