@@ -5,11 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Algorithms
-- 🌱 I’m currently learning 1's & 0's
-- 👯 I’m looking to collaborate on Jobs
-- 🤔 I’m looking for help with Automation
-- 💬 Ask me about @ my gmail
+- 🔭 I’m currently working on recording solutions into reality
+- 🌱 mentally im in silicon valley
+- 👯 I’m working with collaboraters on projects
 - 📫 How to reach me: kiarie7mbugua@gmail.com
 - ⚡ Fun fact: Yes we can!
 -->
