@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on recording solutions into reality
+- 🔭 I’m currently working on being the best at what i do.
 - 🌱 mentally im in silicon valley
-- 👯 I’m working with collaboraters on projects
+- 👯 I’m working with Pyraus
 - 📫 How to reach me: kiarie7mbugua@gmail.com
 - ⚡ Fun fact: Yes we can!
 -->
