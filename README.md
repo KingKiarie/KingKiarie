@@ -3,20 +3,18 @@
 <!--
 **KingKiarie/KingKiarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on being the best at what i do.
 - 🌱 mentally im in silicon valley
 - 👯 I’m working with Pyraus
-- 📫 How to reach me: kiarie7mbugua@gmail.com
-- ⚡ Fun fact: Yes we can!
+- 📫 How to reach me: kiarie7mbugua@gmail.com or kiarie.kevin.pro@zoho.mail
+- ⚡ Fun fact: stinking intelligence is a sign of ...
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="20" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="40" alt="youtube logo"  />
 </div>
 
 <!-- Updated on: 2024-02-10T12:00:00Z (UTC) -->
