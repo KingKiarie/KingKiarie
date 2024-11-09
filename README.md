@@ -3,7 +3,7 @@
 <!--
 **KingKiarie/KingKiarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on being the best at what i do.
+- 🔭 Working on being the best at what i do.
 - 🌱 mentally im in silicon valley
 - 👯 I’m working with Pyraus
 - 📫 How to reach me: kiarie7mbugua@gmail.com or kiarie.kevin.pro@zoho.mail
