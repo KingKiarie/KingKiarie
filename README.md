@@ -10,13 +10,6 @@
 - ⚡ Fun fact: stinking intelligence is a sign of ...
 -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="20" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="20" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="20" height="40" alt="youtube logo"  />
-</div>
-
 <!-- Updated on: 2024-02-10T12:00:00Z (UTC) -->
 
 <div align="center">
@@ -24,11 +17,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingKiarie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### Snake Animation
 
 <img src="https://raw.githubusercontent.com/KingKiarie/KingKiarie/output/snake.svg" alt="Snake animation" />
 
-###
+### Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
@@ -51,5 +44,3 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
 </div>
-
-###
