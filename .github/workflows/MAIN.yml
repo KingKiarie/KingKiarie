@@ -1,12 +1,15 @@
-name: Update README with GitHub Stats, Medium Blogs, and Snake Animation
+name: Update README and Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - master
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -15,20 +18,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
       - name: Fetch Latest Medium Blogs and Update README
         run: |
           MEDIUM_USERNAME="kevinkiarie7"
           BLOG_DATA=$(curl -s "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@$MEDIUM_USERNAME")
           BLOG_TITLES=($(echo "$BLOG_DATA" | jq -r '.items[].title' | head -5))
           BLOG_URLS=($(echo "$BLOG_DATA" | jq -r '.items[].link' | head -5))
-
-          # Prepare the blog post list content
           BLOG_LIST=""
           for ((i=0; i<${#BLOG_TITLES[@]}; i++)); do
             BLOG_LIST+="- [${BLOG_TITLES[$i]}](${BLOG_URLS[$i]})\n"
           done
-
-          # Insert the latest blogs into the README
           sed -i "/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n$BLOG_LIST<!-- BLOG-POST-LIST:END -->" README.md
 
       - name: Commit and Push Changes
@@ -36,14 +38,15 @@ jobs:
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git add README.md
-          git commit -m "Update README with latest Medium blogs [skip ci]"
+          git diff-index --quiet HEAD || git commit -m "Update README with latest Medium blogs [skip ci]"
           git push
 
   generate-snake-animation:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
