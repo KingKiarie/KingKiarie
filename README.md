@@ -7,7 +7,7 @@
 - 🌱 mentally im in silicon valley
 - 👯 I’m working with Pyraus
 - 📫 How to reach me: kiarie7mbugua@gmail.com or kiarie.kevin.pro@zoho.mail
-- ⚡ Fun fact: stinking intelligence is a sign of ...
+- ⚡ be productive
 -->
 
 <!-- Updated on: 2024-02-10T12:00:00Z (UTC) -->
