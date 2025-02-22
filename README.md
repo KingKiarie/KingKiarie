@@ -1,4 +1,4 @@
-### Hello world 👋
+### HI there, I am Kevin  👋. A fullstack developer
 
 <!--
 **KingKiarie/KingKiarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
